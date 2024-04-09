@@ -1,0 +1,8 @@
+name: DeathKeeper
+version: 0.0.1
+author: Kitsoko
+main: me.kitsoko.deathkeeper.Main
+commands:
+  send:
+  deathkeeper:
+    permission: admin
